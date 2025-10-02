@@ -1,0 +1,5 @@
+{
+  "name": "Novel Translator AI",
+  "description": "A web application interface for translating web novels with AI assistance. It includes features for managing books, chapters, glossaries, and characters.",
+  "requestFramePermissions": []
+}
